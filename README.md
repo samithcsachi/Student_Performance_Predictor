@@ -129,12 +129,6 @@ Open the command prompt in VSCODE
 ```bash
 conda create -p venv python==3.13 -y
 ```
-
-```bash
-conda activate venv/
-```
-
-
 Activate the conda environment
 
 ```bash
